@@ -52,14 +52,6 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 
 
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Swatantrakushwaha/count.svg?"  />
-</div>
-
-###
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/indepen_swatantra) 
 
