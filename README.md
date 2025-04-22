@@ -51,22 +51,10 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swatantrakushwaha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swatantrakushwaha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Swatantrakushwaha/Swatantrakushwaha/output/snake.svg" alt="Snake animation" />
 
-###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/Swatantrakushwaha/count.svg?"  />
 </div>
