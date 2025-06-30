@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Swatantra Kushwaha ]</h1>
+<h1 align="center">Hi 👋, I'm Swatantra Kushwaha</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
 - 🌱 I’m currently learning **[e.g. React, DSA, System Design]**
@@ -18,18 +18,10 @@
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+
 
 ---
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-
-
 
 
 
