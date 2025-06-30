@@ -1,4 +1,38 @@
-<h2 align="left">Hi 👋! My name is Swatantra Kushwaha and I'm a Passionate Software Engineer, from India</h2>
+<h1 align="center">Hi 👋, I'm [Swatantra Kushwaha ]</h1>
+<h3 align="center">A passionate Software Engineer </h3>
+
+- 🌱 I’m currently learning **[e.g. React, DSA, System Design]**
+- 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL**
+- 📫 How to reach me: **[swatantrakushwahainfo@gmail.com]**
+- 👨‍💻 My portfolio: [your-portfolio-link.com]
+- ⚡ Fun fact: *I enjoy building things that live on the internet!*
+
+---
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+
+
+
+
+
 
 ### 
 
@@ -37,6 +71,8 @@
 </div>
 
 ###
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/swatantrakushwah/" target="_blank">
