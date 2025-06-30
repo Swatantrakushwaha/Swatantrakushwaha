@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **[e.g. React, DSA, System Design]**
 - 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL**
 - 📫 How to reach me: **[swatantrakushwahainfo@gmail.com]**
-- 👨‍💻 My portfolio: [your-portfolio-link.com]
+- 👨‍💻 My portfolio: [Coming Soon]
 - ⚡ Fun fact: *I enjoy building things that live on the internet!*
 
 ---
