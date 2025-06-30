@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swatantra Kushwaha</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
-- 🌱 I’m currently learning **[e.g. React, DSA, System Design]**
-- 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL**
+- 🌱 I’m currently learning **Microservice's, DSA, System Design**
+- 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL, Reactjs**
 - 📫 How to reach me: **[swatantrakushwahainfo@gmail.com]**
 - 👨‍💻 My portfolio: [Coming Soon]
 - ⚡ Fun fact: *I enjoy building things that live on the internet!*
