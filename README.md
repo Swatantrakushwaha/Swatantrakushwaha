@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swatantra Kushwaha</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
----
-
 - 🌱 I’m currently learning **[e.g. React, DSA, System Design]**
 - 💬 Ask me about **Java, DSA, Spring Boot, REST APIs, SQL**
 - 📫 How to reach me: **[swatantrakushwahainfo@gmail.com]**
@@ -77,7 +75,6 @@
 
 <img align="center" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
 
----
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/indepen_swatantra) 
